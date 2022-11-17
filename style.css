@@ -1,0 +1,8 @@
+@import url("../../../../button.css");
+
+body{
+ 	margin:0;
+ 	font-family: 'Montserrat Regular', sans-serif;
+ 	font-weight: 400;
+  text-align: center;
+}
